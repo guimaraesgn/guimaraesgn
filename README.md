@@ -3,12 +3,9 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=guimaraesgn&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=guimaraesgn&layout=compact&langs_count=8&theme=merko"/>
   <div style="display: inline_block"><br>
-     <img src="https://skillicons.dev/icons?i=github,nodejs,html,css,js,java,c,py,mysql,eclipse,vscode,figma,ai" alt="skills logos" /> <br>
-  <img align="center" alt="javascript logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Java logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Nodejs logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
+     <img src="https://skillicons.dev/icons?i=github,nodejs,html,css,js,java,c,py,mysql,eclipse,vscode,figma,ps,ai" alt="skills logos" /> <br>
+    <img src="https://skillicons.dev/icons?i=angular,bootstrap,linux,e" alt="skills planning to learn logos">
+  
   
   ##
 
