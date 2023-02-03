@@ -15,3 +15,4 @@
     <a href="https://www.linkedin.com/in/guimaraesgn" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/guimaraesgn/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"   target="_blank"></a>
 <a href = "mailto: guimaraesgn30@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  </div>
+ <img src="https://skillicons.dev/icons?i=git,github,githubactions,nodejs,webpack,vite,html,css,sass,tailwind,js,java,cpp,c,py,php,mysql,regex,svg,arduino,atom,eclipse,vscode,netlify,vercel,figma,ai,ps,pr" alt="skills logos" /> <br>
